@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hello, I'm Mohammed, but you can call me mohammedsuhailch! 👋
+    Hello, I'm Mohammed Suhail CH, but you can call me Suhail! 👋
 </h1>
 
 <p align="center">
